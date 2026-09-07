@@ -1,8 +1,8 @@
 class Handover < Formula
   desc "Disconnect Bluetooth headphones when your Mac sleeps, reconnect when it wakes"
   homepage "https://github.com/mon4our/handover"
-  url "https://github.com/mon4our/handover/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "336f3bd2484e912f392c43156f5e7594b3de0e590f1f4558b9c2692fbd14065a"
+  url "https://github.com/mon4our/handover/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "b36d27dbb0ce8ae29a72d3a45a317de8b576713f1a0a52d8058c4b0f69e5ebc7"
   license "MIT"
   head "https://github.com/mon4our/handover.git", branch: "main"
 
