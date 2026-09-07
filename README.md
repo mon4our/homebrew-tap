@@ -4,6 +4,7 @@ Homebrew tap for my own tools.
 
 ```sh
 brew tap mon4our/tap
+brew trust mon4our/tap        # Homebrew 6 requires third-party taps to be trusted
 ```
 
 ## Formulae
