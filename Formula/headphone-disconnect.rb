@@ -2,7 +2,7 @@ class HeadphoneDisconnect < Formula
   desc "Disconnect Bluetooth headphones when your Mac sleeps, reconnect when it wakes"
   homepage "https://github.com/mon4our/headphone-disconnect"
   url "https://github.com/mon4our/headphone-disconnect/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "SHA256_PLACEHOLDER"
+  sha256 "48a21b4ec9b44f08f0b9d1c06899f95545957061df060a9c5e199b2fdbb01b62"
   license "MIT"
   head "https://github.com/mon4our/headphone-disconnect.git", branch: "main"
 
