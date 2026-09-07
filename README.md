@@ -9,11 +9,11 @@ brew trust mon4our/tap        # Homebrew 6 requires third-party taps to be trust
 
 ## Formulae
 
-- **[headphone-disconnect](https://github.com/mon4our/headphone-disconnect)** — disconnects your
-  Bluetooth headphones when the Mac sleeps and reconnects them when it wakes, so multipoint
-  headphones stay usable on your phone.
+- **[handover](https://github.com/mon4our/handover)** — disconnects your Bluetooth headphones
+  when the Mac sleeps and reconnects them when it wakes, so multipoint headphones stay usable on
+  your phone. (Formerly `headphone-disconnect`, which still resolves as an alias.)
 
   ```sh
-  brew install headphone-disconnect
-  brew services start headphone-disconnect
+  brew install handover
+  brew services start handover
   ```
